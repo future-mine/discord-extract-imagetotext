@@ -1,0 +1,174 @@
+1588834655319	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofilen1vxu7"
+1588834667399	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileQyan8T"
+1588834667621	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588834667996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588834668000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588834668000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588834668000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588834669623	Marionette	INFO	Listening on port 63860
+1588834670010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588834754937	Marionette	INFO	Stopped listening on port 63860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588834780831	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileCF8d3F"
+1588834781066	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588834781355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588834781355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588834781355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588834781355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588834782889	Marionette	INFO	Listening on port 64057
+1588834782938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588834821481	Marionette	INFO	Stopped listening on port 64057
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588834937114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileC9BRCP"
+1588834937329	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588834937605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588834937605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588834937605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588834937605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588834939099	Marionette	INFO	Listening on port 64489
+1588834939127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588835064070	Marionette	INFO	Stopped listening on port 64489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588835072094	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileuM1945"
+1588835072305	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588835072587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588835072587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588835072587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588835072587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588835074094	Marionette	INFO	Listening on port 60082
+1588835074102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588835128389	Marionette	INFO	Stopped listening on port 60082
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588835131177	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileDKmzRK"
+1588835131384	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588835131660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588835131660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588835131660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588835131660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588835133143	Marionette	INFO	Listening on port 60233
+1588835133185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 14: Script terminated by timeout at:
+N</a.getChannelId@https://discord.com/assets/6d44655504a4f5c02460.js:14:259270
+WINDOW_FOCUS@https://discord.com/assets/6d44655504a4f5c02460.js:179:698102
+u</t._dispatch@https://discord.com/assets/6d44655504a4f5c02460.js:62:703345
+u</t.dispatch@https://discord.com/assets/6d44655504a4f5c02460.js:62:702753
+u</t.dirtyDispatch@https://discord.com/assets/6d44655504a4f5c02460.js:62:702712
+focus@https://discord.com/assets/6d44655504a4f5c02460.js:62:344991
+@https://discord.com/assets/6d44655504a4f5c02460.js:116:356920
+r@https://discord.com/assets/27b2ab0df97083d7838d.js:16:83618
+
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588835406710	Marionette	INFO	Stopped listening on port 60233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588835410465	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\win\\AppData\\Local\\Temp\\rust_mozprofileQQ8muO"
+1588835410676	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588835410942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588835410942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588835410942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588835410942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588835412443	Marionette	INFO	Listening on port 60868
+1588835412475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript error: https://discord.com/assets/6d44655504a4f5c02460.js, line 45: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: https://discord.com/assets/6d44655504a4f5c02460.js, line 14: TypeError: e is null
+JavaScript error: https://discord.com/assets/6d44655504a4f5c02460.js, line 45: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/6d44655504a4f5c02460.js, line 62: unreachable code after return statement
+1588835590399	Marionette	INFO	Stopped listening on port 60868
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

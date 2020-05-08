@@ -18,7 +18,6 @@ def get_string(img_path):
     # Write the image after apply opencv to do some ...
     cv2.imwrite("data/thres.png", img)
     # Recognize text with tesseract for python
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
     result = pytesseract.image_to_string(Image.open("data/thres.png"))
     os.remove("data/thres.png")
 
